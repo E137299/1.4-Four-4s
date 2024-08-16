@@ -1,0 +1,13 @@
+print("\nFour 4s")
+
+print("Zero is "+str(4444))
+print("One is "+str(4444))
+print("Two is "+str(4444))
+print("Three is "+str(4444))
+print("Four is "+str(4444))
+print("Five is "+str(4444))
+print("Six is "+str(4444))
+print("Seven is "+str(4444))
+print("Eight is "+str(4444))
+print("Nine is "+str(4444))
+print("Ten is "+str(4444))
